@@ -1,6 +1,6 @@
 """
 File:genome.py
-    Author: Aayush Ghimire, Date:05/2/2018
+    Author: Aayush Ghimire, Date:05/2/2018.
     Purpose: To construct a class Genome data to make a genome data
     object for each organism. It is exported to main file phylo.py
 """
